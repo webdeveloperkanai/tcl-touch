@@ -1,3 +1,12 @@
+source "function.tcl"  
+# file inclusion 
+
+set a 85
+set b 15
+set devide [makeDivide $a $b];
+
+puts "Result is $devide\n\n"
+
 set myName "Kanai"
 set myTitle "Shil"
 set myAge 23.6

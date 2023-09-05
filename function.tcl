@@ -8,10 +8,10 @@ proc makeDivide {a b} {
     set rest [expr {$a % $b}]
     return [concat $result "and rest" $rest] ; # concatinate :::)))))))))
 }
-set a 76
-set b 15
+# set a 76
+# set b 15
 
-set sum [makeSum $a $b];
-set devide [makeDivide $a $b];
+# set sum [makeSum $a $b];
+# set devide [makeDivide $a $b];
 
-puts "The sum value is $sum and dividation value is $devide" 
+# puts "The sum value is $sum and dividation value is $devide" 
