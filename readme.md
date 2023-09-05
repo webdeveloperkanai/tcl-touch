@@ -8,3 +8,5 @@
 6. Variable Concatination [✔️]
 7. File Inclusion [✔️]
 8. File Creation [✔️]
+9. Loops [for, while] [✔️]
+10. IP detect [✔️]
